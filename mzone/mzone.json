@@ -1,0 +1,20 @@
+// mzone.json
+{
+  "sourceName": "MovieZone",
+  "iconUrl": "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/mzone/icon.png",
+  "author": {
+    "name": "ibro",
+    "icon": "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/profile.jpg",
+    "url": "https://github.com/xibrox"
+  },
+  "version": "1.0.4",
+  "language": "English",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "baseUrl": "https://m-zone.org/",
+  "searchBaseUrl": "https://api.themoviedb.org/3/search/multi?api_key=8d6d91941230817f7807d643736e8a49&query=%s",
+  "scriptUrl": "https://raw.githubusercontent.com/TIGamingTV/sora_modules/mzone/mzone.js",
+  "type": "anime/shows/movies",
+  "asyncJS": true,
+  "softsub": true
+}
