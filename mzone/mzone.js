@@ -1,5 +1,3 @@
-// mzone.js
-
 /**
  * Sucht nach Filmen/Serien bei TMDb und formatiert die Ergebnisse
  */
